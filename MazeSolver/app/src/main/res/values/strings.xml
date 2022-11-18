@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="buttonUp">UP</string>
+    <string name="empty"> </string>
+    <string name="two">2</string>
+    <string name="four">4</string>
+    <string name="eight">8</string>
+    <string name="sixteen">16</string>
+    <string name="thirty_two">32</string>
+    <string name="sixty_four">64</string>
+    <string name="hundred_twenty_eight">128</string>
+    <string name="two_hundred">256</string>
+    <string name="five_hundred">512</string>
+    <string name="one_thousand">1024</string>
+    <string name="two_thousand">2048</string>
+</resources>
